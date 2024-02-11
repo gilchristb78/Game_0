@@ -19,3 +19,9 @@ This first project implements many basic systems and frameworks that I intend to
 
 ### Summary
 These sustems and basics together allow you to string together rootamentary gameplay where you can collect items, craft them together, build structures and more. it is far from a game but has afforded me the opportunity to learn the Unreal Engine Systems and will be improved in the next iterations
+
+<br><br><br>
+  > A big thank you to Sneaky Kitty Game Dev on youtube for providing a tutorial to which formed the foundation for my Base Building which I then modified [Base Building by Sneaky Kitty Game Dev](https://www.youtube.com/playlist?list=PLnHeglBaPYu-F1ZGmVZIfnbR11WN2_ReW)
+ 
+
+  > Another thank you to Reubs on Patreon for creating the Make Games with Reubs course which started my UE5 journey and taught me the basics of UE5 [Make Games With Reubs Course Access on Patreon](https://www.patreon.com/reubenward)
